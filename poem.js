@@ -10,7 +10,7 @@ window.onload = function () {
         else{
            document.getElementsByClassName("show")[line++].style.display = "initial"; 
         }
-        if (line > 13){
+        if (line > 14){
             window.clearInterval(appear);
         }
     }

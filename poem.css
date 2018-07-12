@@ -2,6 +2,10 @@
     display: none;
 }
 
+.last {
+    font-family: 'Dancing Script', cursive;
+}
+
 div, h5 {
     width: 320px;
     margin: auto;
