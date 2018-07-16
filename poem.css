@@ -3,7 +3,9 @@
 }
 
 .last {
-    font-family: 'Dancing Script', cursive;
+/*    font-family: 'Dancing Script', cursive;*/
+    font-family: 'Tangerine', cursive;
+    font-size: 2rem;
 }
 
 div, h5 {
