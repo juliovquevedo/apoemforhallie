@@ -8,7 +8,7 @@ window.onload = function () {
         document.getElementsByClassName("show")[line].style.color = "black";
         document.getElementsByClassName("show")[line++].style.transition = "color 1s linear 0.1s";
     }
-    var appear = setInterval(showLine, 3500);
+    var appear = setInterval(showLine, 2800);
     var line = 0;
     
     function showLine () {
